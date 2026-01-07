@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "革命前夜",
+  "base_artist": "eill",
+  "createdAt": "2026-01-07T16:14:20.136400Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "革命前夜",
+      "artist": "Yuka Iguchi",
+      "has_synced": true,
+      "path": "select/01_革命前夜_Yuka_Iguchi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "革命前夜",
+      "artist": "井口裕香",
+      "has_synced": true,
+      "path": "select/02_革命前夜_井口裕香.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "革命前夜",
+      "artist": "Tempalay",
+      "has_synced": true,
+      "path": "select/03_革命前夜_Tempalay.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "革命前夜",
+      "artist": "すとぷり",
+      "has_synced": true,
+      "path": "select/04_革命前夜_すとぷり.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "革命前夜",
+      "artist": "Tempalay",
+      "has_synced": true,
+      "path": "select/05_革命前夜_Tempalay.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "革命前夜",
+      "artist": "カラスは真っ白",
+      "has_synced": true,
+      "path": "select/06_革命前夜_カラスは真っ白.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "革命前夜",
+      "artist": "井口裕香",
+      "has_synced": true,
+      "path": "select/07_革命前夜_井口裕香.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "革命前夜 (Instrumental)",
+      "artist": "井口裕香",
+      "has_synced": true,
+      "path": "select/08_革命前夜_(Instrumental)_井口裕香.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "革命前夜 -The Eve of the Revolution-",
+      "artist": "四皇學園生徒会(CV.斉藤壮馬、近藤隆、木村昴、平川大輔)",
+      "has_synced": false,
+      "path": "select/09_革命前夜_-The_Eve_of_the_Revolution-_四皇學園生徒会(CV.斉藤壮馬、近藤隆、木村昴、平川大輔).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "革命前夜",
+      "artist": "eill",
+      "has_synced": false,
+      "path": "select/pl_01_革命前夜_eill.txt"
+    }
+  ]
+}
